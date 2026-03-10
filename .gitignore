@@ -1,0 +1,12 @@
+ 
+# Ignore compiled binaries
+bin/
+*.exe
+*.class
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore IDE settings
+.vscode/
