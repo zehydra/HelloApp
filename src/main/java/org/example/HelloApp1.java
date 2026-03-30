@@ -6,7 +6,7 @@ public class HelloApp1{
         System.out.println("hello "+name+" !");
     }
 }
-//write this as the scond line on the terminal
+//write this as the second line on the terminal
 /*
 PS C:\Users\KKS\HelloApp\src> javac -d bin HelloApp1.java
 PS C:\Users\KKS\HelloApp\src> java -cp bin HelloApp1.java Prachi
